@@ -251,4 +251,4 @@ This repository serves as the official landing page for Comic Life. The software
 **Get the most recent version of Comic Life today!**
 
 ---
-**Last updated:** 2026-09-20 10:58:14 UTC
+**Last updated:** 2026-09-20 14:39:29 UTC
